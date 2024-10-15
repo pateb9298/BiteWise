@@ -1,5 +1,5 @@
 # BiteWise
-BiteWise AI tackles these challenges by offering low-cost recipes, waste reduction tips, and seasonal ingredient recommendations to help users make the most of what’s available.
+BiteWise AI tackles challenges by offering low-cost recipes, waste reduction tips, and seasonal ingredient recommendations to help users make the most of what’s available.
 🌍 Making an Impact:
 
 BiteWise AI is not just another chatbot. It’s a scalable, sustainable, and practical solution directly addressing food insecurity while aligning with key UN Sustainable Development Goals (SDGs):
